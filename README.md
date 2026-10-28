@@ -1,7 +1,7 @@
 # Hi, I'm Kenshin! 👋
 
 
-Computer Science undergraduate at BINUS University (Semester 4).
+## Computer Science undergraduate at BINUS University (Semester 4).
 
 ---
 ![Welcome](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b2lzN21maXJuM2VwejVlNHJjMTBwNGYzMWY4bm44NjlkanVxOWx3dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif)
