@@ -42,6 +42,10 @@
 
 ---
 
+![Visitor Count](https://seeyoufarm.com)
+
+---
+
 ### 📬 Connect with Me
 - **LinkedIn:** [linkedin.com/in/kenshin-dhamma-thamzir](www.linkedin.com/in/kenshin-dhamma-thamzir)
 - **Email:** [kenshindthamzir@gmail.com](mailto:kenshindthamzir@gmail.com)
