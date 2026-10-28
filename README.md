@@ -42,7 +42,7 @@
 
 ---
 
-![Visitor Count](https://seeyoufarm.com)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Kenshin117))
 
 ---
 
